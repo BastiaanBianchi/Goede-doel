@@ -1,0 +1,209 @@
+
+body{
+    margin: 5000px;
+    font-family: 'alatsi',sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+div{
+    background-color: rgb(224, 202, 202);
+
+}
+.top{
+    width: 1440px;
+    height: 15px;
+    top: 0px;
+    position:fixed;
+    left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px; 
+    list-style-type: none;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+    color: rgb(240,130,20);
+}
+.rectangle{
+    width: 1440px;
+    height: 50px;
+    top: 0px;
+    position:fixed;
+    left: 0px;
+    background-color: rgb(255, 234, 234);
+}
+.header{
+    width: 1440px;
+    height: 100px;
+    top: 20px;
+    left: -100px;
+    gap: 100px;
+    position:fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+    color: rgb(0, 0, 0);
+}
+.amersfoort{ 
+    width: 120px;
+    height: 120px;
+    position:fixed;
+    top: 16px;
+    left: 110px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+    color: rgb(240,130,20);
+    font-weight: bold;
+    font-size: 18px;
+}
+.rectangle2{
+    width: 150px;
+    height: 40px;
+    top: 65px;
+    right: 70px;
+    background-color: rgb(210, 130, 20);
+    justify-content: center;
+    position:fixed;
+    align-items: center;
+    display: flex;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+    border-radius: 20px;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    top: 57px;
+    left: 30px;
+    position:fixed;
+}
+.rectangle3{
+    width: 500px;
+    height: 275px;
+    top: 400px;
+    left: 100px;
+    position:fixed;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px;
+}
+.socials{
+    width: 174px;
+    height: 58px;
+    top: -3px;
+    right: 50px;
+    position:fixed;
+}
+.voedselbank3{
+    width: 1440px;
+    height: 600px;
+    top: 120px;
+    left: 0px;
+    position:fixed;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.voedselbanken{
+    width: 120px;
+    height: 120px;
+    top: 45px;
+    left: 100px;
+    position:fixed;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+.welkom{
+    font-size: 20px;
+    width: 500px;
+    height: 50px;
+    top: 430px;
+    left: -37px;
+    position:fixed;
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    font-family: 'Segoe UI', alatsic;
+    color: rgb(240,130,20);
+    font-weight: bold;
+}
+.voedselbank-amersfoort{
+    font-size: 20px;
+    width: 500px;
+    height: 50px;
+    top: 480px;
+    left: 13px;
+    position:fixed;
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+    color: rgb(240,130,20);
+    font-weight: bold;
+    
+}
+.beschrijving{
+    width: 400px;
+    height: 50px;
+    top: 530px;
+    left: 147px;
+    position:fixed;
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+}
+.vragen{
+    width: 500px;
+    height: 50px;
+    top: 600px;
+    left: 70px;
+    position:fixed;
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    font-weight: bold;
+    font-family: 'Segoe UI', alatsic,sans-serif;
+}
+.rectangle4{
+    width: 500px;
+    height: 275px;
+    top: 1000px;
+    left: 700px;
+    background-color: rgb(240,130,20);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px;
+}
+.rectangle5{
+    width: 500px;
+    height: 275px;
+    top: 1000px;
+    left: 1000px;
+    background-color: rgb(240,130,20);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px;
+}
+.rectangle6{
+    width: 500px;
+    height: 275px;
+    top: 1000px;
+    left: 1300px;
+    background-color: rgb(240,130,20);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 20px;
+}
